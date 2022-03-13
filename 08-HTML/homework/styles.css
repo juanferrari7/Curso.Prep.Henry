@@ -7,9 +7,9 @@
   #thirdDiv{
       height: 600px;
       width: 500px;
-      background-color: aqua;
+      background-color: crimson;
       padding: 50px;
-      border: cornflowerblue dotted;
+      border: 10px solid black;
   }
   #spanId{
       font-size: 18px;
